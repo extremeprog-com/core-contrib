@@ -51,9 +51,9 @@ Roles and responsibilities in this project to make this project real
    - publish articles in different resources
 
 10. Real world ideologist
-   - find how to light people about Core ideas
-   - manage project entrance pages and project graphics
-   - help to create project taxonomy
+    - find how to light people about Core ideas
+    - manage project entrance pages and project graphics
+    - help to create project taxonomy
 
 
 One contributor can merge several roles. One contributor can't merge conflict roles in one context (for example, check own pull-request, or be an arbuter in own dispute).
@@ -63,8 +63,9 @@ One contributor can merge several roles. One contributor can't merge conflict ro
 1. Simplify app development, bring more automation to programming, save developers from boiler-plate code
 2. Create better reusable libraries (Implementation and API Patterns for common things, like Players, Blogs, Comments, etc)
 3. To become a new standard logic for App development. Extend support to many modern languages.
+```
    <– create separate document for explaination how to design simple-portable Core implementations
-
+```
 ## Project Artifacts
 
 Current:
@@ -121,27 +122,27 @@ Far future:
 
 ## Nearer milestones and middle-term goals
 
+```
 Rules: 
-
 - each step should bring profit for end-user or contributors
 - make too much steps simultaneously is not recommended for 1 people or a small group (1-3 is ok)
-
+```
 
 1. Make Core concepts clear to understanding by third-party people. Change Core.JS for being trusted by users.
 
-   a. Create meaningful examples for Core.js
-   b. Create good entrance page with laconic description and good examples for Core.js
-   c. Create more advanced description of concepts.
-   d. Create docs for features and corner-cases.
-   e. Create test-framework and basic tests for Core.JS
+   - a. Create meaningful examples for Core.js
+   - b. Create good entrance page with laconic description and good examples for Core.js
+   - c. Create more advanced description of concepts.
+   - d. Create docs for features and corner-cases.
+   - e. Create test-framework and basic tests for Core.JS
 
 2. Make Core.JS v2 a live project
    
-   a. Create full design-concept of Core.JS v2
-   b. Start implementing features
-   c. Create more features to being helpful for real projects
-   d. Test Core.JS v2 in real projects.
-   e. Find more contributors for continue work.
+   - a. Create full design-concept of Core.JS v2
+   - b. Start implementing features
+   - c. Create more features to being helpful for real projects
+   - d. Test Core.JS v2 in real projects.
+   - e. Find more contributors for continue work.
 
 3. Implement on other language
 
