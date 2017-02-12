@@ -122,11 +122,13 @@ Far future:
 ## Nearer milestones and middle-term goals
 
 Rules: 
+
 - each step should bring profit for end-user or contributors
 - make too much steps simultaneously is not recommended for 1 people or a small group (1-3 is ok)
-- 
+
 
 1. Make Core concepts clear to understanding by third-party people. Change Core.JS for being trusted by users.
+
    a. Create meaningful examples for Core.js
    b. Create good entrance page with laconic description and good examples for Core.js
    c. Create more advanced description of concepts.
@@ -134,6 +136,7 @@ Rules:
    e. Create test-framework and basic tests for Core.JS
 
 2. Make Core.JS v2 a live project
+   
    a. Create full design-concept of Core.JS v2
    b. Start implementing features
    c. Create more features to being helpful for real projects
@@ -141,6 +144,7 @@ Rules:
    e. Find more contributors for continue work.
 
 3. Implement on other language
+
    ...
 
 
