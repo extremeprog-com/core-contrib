@@ -86,6 +86,7 @@ Far future:
 
 ## OS Diagrams
 
+```
 <– Create Core.JS v2
    <– Create list of features
       # Embedded testing framework, hierarchial contexts
@@ -109,11 +110,13 @@ Far future:
                -> ...
                   –> Implement request of events
                      ->
+```
 
-
+```
 <– Find more contributors
    <– Recruit Buster
       <– Create Core Understanding guide
+```
 
 
 ## Nearer milestones and middle-term goals
