@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3344px" height="3731px" viewBox="0 0 3344 3731" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" fill="#000000">
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2257" y="1443">Core.code(function() {</tspan>
+                <tspan x="2257" y="1471">   classes.Player = {</tspan>
+                <tspan x="2257" y="1499">     sendStat: function() {</tspan>
+                <tspan x="2257" y="1527">         CatchTime(time.Player.Stop)</tspan>
+                <tspan x="2257" y="1555">     }</tspan>
+                <tspan x="2257" y="1583">   }</tspan>
+                <tspan x="2257" y="1611">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1426" y="726">Core.code(function() {</tspan>
+                <tspan x="1426" y="754">   classes.Player = {</tspan>
+                <tspan x="1426" y="782">     sendStat: function() {</tspan>
+                <tspan x="1426" y="810">         CatchEventChain([event.Player.Stop, event.Player.Start]);</tspan>
+                <tspan x="1426" y="838">     }</tspan>
+                <tspan x="1426" y="866">   }</tspan>
+                <tspan x="1426" y="894">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1541" y="1460">Core.code(function() {</tspan>
+                <tspan x="1541" y="1488">   classes.Player = {</tspan>
+                <tspan x="1541" y="1516">     sendStat: function(done, fail) {</tspan>
+                <tspan x="1541" y="1544">         Catch([event.Player.Stop, event.Player.Start]);</tspan>
+                <tspan x="1541" y="1572">     }</tspan>
+                <tspan x="1541" y="1600">   }</tspan>
+                <tspan x="1541" y="1628">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="867" y="1563">Core.code(function() {</tspan>
+                <tspan x="867" y="1591">   classes.Player = {</tspan>
+                <tspan x="867" y="1619">     sendStat: function(state, done, fail) {</tspan>
+                <tspan x="867" y="1647">         CatchRequest(request.Player.Init);</tspan>
+                <tspan x="867" y="1675">		this.aadss = []</tspan>
+                <tspan x="867" y="1703">     }</tspan>
+                <tspan x="867" y="1731">   }</tspan>
+                <tspan x="867" y="1759">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2006" y="726">Core.code(function() {</tspan>
+                <tspan x="2006" y="754">   classes.Player = {</tspan>
+                <tspan x="2006" y="782">     sendStat: function() {</tspan>
+                <tspan x="2006" y="810">         CatchEvent(event.Player.Stop, event.Player.Start, function(Event) {</tspan>
+                <tspan x="2006" y="838">            // filter event.Player.Stop || event.Player.Start</tspan>
+                <tspan x="2006" y="866">            return true | false;</tspan>
+                <tspan x="2006" y="894">         });</tspan>
+                <tspan x="2006" y="922">     }</tspan>
+                <tspan x="2006" y="950">   }</tspan>
+                <tspan x="2006" y="978">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1426" y="1059">Core.code(function() {</tspan>
+                <tspan x="1426" y="1087">   classes.Player = {</tspan>
+                <tspan x="1426" y="1115">     sendStat: function() {</tspan>
+                <tspan x="1426" y="1143">         var event = Catch(event.Player.Stop, event.Player.Start, { PlaylistsCount: 0 });</tspan>
+                <tspan x="1426" y="1171">     }</tspan>
+                <tspan x="1426" y="1199">   }</tspan>
+                <tspan x="1426" y="1227">})</tspan>
+            </text>
+            <text id="Async-execution" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1513" y="1353">Async execution</tspan>
+            </text>
+            <text id="Fire" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="942" y="1945">Fire</tspan>
+            </text>
+            <text id="Data" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="877" y="1501">Data</tspan>
+            </text>
+            <text id="Catch-Ordering" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="2213" y="1888">Catch Ordering</tspan>
+            </text>
+            <text id="Catch-TimePoint" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="2251" y="1353">Catch TimePoint</tspan>
+            </text>
+            <text id="Contexts-Events-Requ" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.569746377">
+                <tspan x="260" y="695">Contexts</tspan>
+                <tspan x="260" y="723"></tspan>
+                <tspan x="260" y="751">Events</tspan>
+                <tspan x="260" y="779"></tspan>
+                <tspan x="260" y="807">Requests</tspan>
+                <tspan x="260" y="835"></tspan>
+                <tspan x="260" y="863">Request of Event</tspan>
+                <tspan x="260" y="891"></tspan>
+                <tspan x="260" y="919">Time Points</tspan>
+                <tspan x="260" y="947"></tspan>
+                <tspan x="260" y="975">Catch Ordering</tspan>
+                <tspan x="260" y="1003"></tspan>
+                <tspan x="260" y="1031">Testing Framework</tspan>
+                <tspan x="260" y="1059"></tspan>
+                <tspan x="260" y="1087">Data, separated from methods</tspan>
+                <tspan x="260" y="1115"></tspan>
+                <tspan x="260" y="1143">Events and Contexts serialization</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1426" y="421">Core.code(function() {</tspan>
+                <tspan x="1426" y="449">   classes.Player = {</tspan>
+                <tspan x="1426" y="477">     sendStat: function() {</tspan>
+                <tspan x="1426" y="505">         CatchRequest(request.Player.Stop)</tspan>
+                <tspan x="1426" y="533">     }</tspan>
+                <tspan x="1426" y="561">   }</tspan>
+                <tspan x="1426" y="589">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="916" y="438">Core.code(function() {</tspan>
+                <tspan x="916" y="466">   classes.Player = {</tspan>
+                <tspan x="916" y="494">     sendStat: function() {</tspan>
+                <tspan x="916" y="522">         CatchRequestEvent(event.Player.Stop)</tspan>
+                <tspan x="916" y="550">     }</tspan>
+                <tspan x="916" y="578">   }</tspan>
+                <tspan x="916" y="606">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2006" y="421">Core.code(function() {</tspan>
+                <tspan x="2006" y="449">   classes.Player = {</tspan>
+                <tspan x="2006" y="477">     sendStat: function() {</tspan>
+                <tspan x="2006" y="505">         Catch(event.Player.Stop, event.Player.Start);</tspan>
+                <tspan x="2006" y="533">     }</tspan>
+                <tspan x="2006" y="561">   }</tspan>
+                <tspan x="2006" y="589">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="942" y="2017">Core.code(function() {</tspan>
+                <tspan x="942" y="2045">   classes.Player.$describe( [], {}. {</tspan>
+                <tspan x="942" y="2073">     sendStat: function(done, fail) {</tspan>
+                <tspan x="942" y="2101">         CatchRequest(request.Player.Init);</tspan>
+                <tspan x="942" y="2129">         FireRequest(rq.Player.StartPlay({param:...}), </tspan>
+                <tspan x="942" y="2157">              function(){});</tspan>
+                <tspan x="942" y="2185">         this.$fireEvent(ev.Player.Start({}));</tspan>
+                <tspan x="942" y="2213">         this.$fireRequest(ev.Player.Start({}));</tspan>
+                <tspan x="942" y="2241"></tspan>
+                <tspan x="942" y="2269">         FireTimePoint(tm.Player.StartPlay({}));</tspan>
+                <tspan x="942" y="2297">     }</tspan>
+                <tspan x="942" y="2325">   })</tspan>
+                <tspan x="942" y="2353">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="927" y="2532">Core.code(function() {</tspan>
+                <tspan x="927" y="2560">   Core.define(classes.Playlist, [classes.AbstractItemList, ..]);</tspan>
+                <tspan x="927" y="2588"></tspan>
+                <tspan x="927" y="2616"></tspan>
+                <tspan x="927" y="2644">})</tspan>
+            </text>
+            <text id="var-Core2-=-request(" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="423" y="2962">var Core2 = request(‘Core2’);</tspan>
+                <tspan x="423" y="2990"></tspan>
+                <tspan x="423" y="3018">module.exports = Core2.code(function() {</tspan>
+                <tspan x="423" y="3046">   Core.define(classes.Playlist);</tspan>
+                <tspan x="423" y="3074">   /// classes.Playlist.$describe();</tspan>
+                <tspan x="423" y="3102"></tspan>
+                <tspan x="423" y="3130">   </tspan>
+                <tspan x="423" y="3158">   event.Playlist.ItemAdded.$fires (event.Playlist.Changed,</tspan>
+                <tspan x="423" y="3186">       function(src, dest) {  });</tspan>
+                <tspan x="423" y="3214">   </tspan>
+                <tspan x="423" y="3242">})</tspan>
+            </text>
+            <text id="module.exports-=-Cor" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="429" y="3329">module.exports = Core.code(function() {</tspan>
+                <tspan x="429" y="3357">   classes.Playlist.$describe();</tspan>
+                <tspan x="429" y="3385">   model.Playlist.Song.$describe();</tspan>
+                <tspan x="429" y="3413">   event.Playlist.Song.$describe();</tspan>
+                <tspan x="429" y="3441">   request.Playlist.Song.$describe();</tspan>
+                <tspan x="429" y="3469"></tspan>
+                <tspan x="429" y="3497">   </tspan>
+                <tspan x="429" y="3525">})</tspan>
+            </text>
+            <text id="event.Playlist.ItemA" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="916" y="2895">event.Playlist.ItemAdded.$fires (event.Playlist.Changed,</tspan>
+                <tspan x="916" y="2923">    function(src, dest) {  });</tspan>
+            </text>
+            <text id="Core.code(function(c" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1531" y="2895">Core.code(function(classes, event, request, time) {</tspan>
+                <tspan x="1531" y="2923">   classes.Player = {</tspan>
+                <tspan x="1531" y="2951">     sendStat: function(done, fail) {</tspan>
+                <tspan x="1531" y="2979">         CatchRequest(request.Player.Init);</tspan>
+                <tspan x="1531" y="3007">         state.fire(event.Player.Start)</tspan>
+                <tspan x="1531" y="3035">     }</tspan>
+                <tspan x="1531" y="3063">   }</tspan>
+                <tspan x="1531" y="3091">})</tspan>
+            </text>
+            <text id="this-=-{-param1:-..." font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2147" y="2878">this = {</tspan>
+                <tspan x="2147" y="2906">   param1: ...,</tspan>
+                <tspan x="2147" y="2934">   param2: ...,</tspan>
+                <tspan x="2147" y="2962">   __proto__: {</tspan>
+                <tspan x="2147" y="2990">      context: {</tspan>
+                <tspan x="2147" y="3018">      },</tspan>
+                <tspan x="2147" y="3046">      __proto__: {</tspan>
+                <tspan x="2147" y="3074">         // classes.Player prototype</tspan>
+                <tspan x="2147" y="3102">     }</tspan>
+                <tspan x="2147" y="3130">   }</tspan>
+                <tspan x="2147" y="3158"></tspan>
+                <tspan x="2147" y="3186">}</tspan>
+            </text>
+            <text id="events/requests-only" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="433" y="2528">events/requests only </tspan>
+            </text>
+            <text id="Init.begin-Init.end" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1572" y="2098">Init.begin</tspan>
+                <tspan x="1572" y="2126">Init.end</tspan>
+            </text>
+            <text id="SongLoad.begin-SongL" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1572" y="2294">SongLoad.begin</tspan>
+                <tspan x="1572" y="2322">SongLoad.request</tspan>
+                <tspan x="1572" y="2350">SongLoad.startTransfer</tspan>
+                <tspan x="1572" y="2378">SongLoad.end</tspan>
+            </text>
+            <text id="time.Player.Load.$ch" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="1572" y="2549">time.Player.Load.$chain(“begin”,”request”, “startTransfer”, “end”)</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2006" y="2000">Core.code(function() {</tspan>
+                <tspan x="2006" y="2028">   classes.Player = {</tspan>
+                <tspan x="2006" y="2056">     sendStat: function() {</tspan>
+                <tspan x="2006" y="2084">         var event = Catch(event.Player.Stop, event.Player.Start, { _after:  event.Player.Start});</tspan>
+                <tspan x="2006" y="2112">     }</tspan>
+                <tspan x="2006" y="2140">   }</tspan>
+                <tspan x="2006" y="2168">})</tspan>
+            </text>
+            <text id="Core.code(function()" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.708644701">
+                <tspan x="2006" y="2253">Core.code(function() {</tspan>
+                <tspan x="2006" y="2281">   classes.Player = {</tspan>
+                <tspan x="2006" y="2309">     sendStat: function() {</tspan>
+                <tspan x="2006" y="2337">         var event = CatchTime(tm.Player.Stop, ev.Player.Start, { _after:  tm.Player.Inited});</tspan>
+                <tspan x="2006" y="2365">     }</tspan>
+                <tspan x="2006" y="2393">   }</tspan>
+                <tspan x="2006" y="2421">})</tspan>
+            </text>
+            <text id="it();-describe();-Во" font-family="HelveticaNeue, Helvetica Neue" font-size="24" font-weight="normal" letter-spacing="-0.563478231" fill-opacity="0.569746377">
+                <tspan x="228" y="1732">it();</tspan>
+                <tspan x="228" y="1760">describe();</tspan>
+                <tspan x="228" y="1788"></tspan>
+                <tspan x="228" y="1816"></tspan>
+                <tspan x="228" y="1844">Возможнсти:</tspan>
+                <tspan x="228" y="1872">1. запуск с разными данными</tspan>
+                <tspan x="228" y="1900">2. генерация данных</tspan>
+                <tspan x="228" y="1928">3. плагины (для генерации данны, для состояний)</tspan>
+                <tspan x="228" y="1956">4. состояния</tspan>
+                <tspan x="228" y="1984">5. проверки состояний</tspan>
+                <tspan x="228" y="2012">6. ассерты после выполнений</tspan>
+                <tspan x="228" y="2040">7. удобные асинхронные цепочки</tspan>
+                <tspan x="228" y="2068">8. человеческое описание действий</tspan>
+                <tspan x="228" y="2096">(чтобы было легко писать тесты)</tspan>
+                <tspan x="228" y="2124">9. генерация тестов</tspan>
+                <tspan x="228" y="2152">10. автоматическое составление цепочек</tspan>
+                <tspan x="228" y="2180"></tspan>
+                <tspan x="228" y="2208">возможные возможности:</tspan>
+                <tspan x="228" y="2236">1. генерация докумнтации</tspan>
+                <tspan x="228" y="2264"></tspan>
+                <tspan x="228" y="2292">Core.test(function(test) {</tspan>
+                <tspan x="228" y="2320">  test</tspan>
+                <tspan x="228" y="2348">})</tspan>
+                <tspan x="228" y="2376"></tspan>
+            </text>
+            <text id="Catch-Event/Request/" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1771" y="279">Catch Event/Request/RequestEvent/Time</tspan>
+            </text>
+            <text id="Instanceof" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="429" y="2438">Instanceof</tspan>
+            </text>
+            <text id="Server-side" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="433" y="2823">Server-side</tspan>
+            </text>
+            <text id="Event/Request/Data-M" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="423" y="3267">Event/Request/Data Models</tspan>
+            </text>
+            <text id="Inheritance,-Mixins" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="927" y="2438">Inheritance, Mixins</tspan>
+            </text>
+            <text id="Events-inheritance" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="916" y="2801">Events inheritance</tspan>
+            </text>
+            <text id="Access-to-Context" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1531" y="2801">Access to Context</tspan>
+            </text>
+            <text id="Object-inheritance-s" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="2147" y="2801">Object inheritance structure</tspan>
+            </text>
+            <text id="Checks-(fuzzy-vars)" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="228" y="1296">Checks (fuzzy vars)</tspan>
+            </text>
+            <text id="Testing-Framework" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="228" y="1645">Testing Framework</tspan>
+            </text>
+            <text id="Default-Times" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1572" y="2041">Default Times</tspan>
+            </text>
+            <text id="Custom-Times" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1572" y="2237">Custom Times</tspan>
+            </text>
+            <text id="Time-Chains" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1572" y="2495">Time Chains</tspan>
+            </text>
+            <text id="Event-Chain" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="48" font-weight="400" letter-spacing="-1.12695646" fill-opacity="0.708644701">
+                <tspan x="1031" y="791">Event Chain</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
